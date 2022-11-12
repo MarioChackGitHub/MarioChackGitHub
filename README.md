@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 
 ### Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## Contact
+[![Email](https://img.shields.io/badge/mario.chaconruiz93@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mario.chaconruiz93@gmail.com)
