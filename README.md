@@ -1,7 +1,7 @@
 ## Hi, my name is Mario Chacon 👋
 
 🔭 I’m currently working as a TA at The Bridge Education S.L.  
-🌱 I’m looking for a project whewre I can continue growing and developing my current skills  
+🌱 I’m looking for a project where I can continue growing and developing my current skills  
 🙋‍♂️ Continuously learning!  
 
 
